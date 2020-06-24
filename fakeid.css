@@ -1,0 +1,149 @@
+body{
+    margin:0px;
+    padding:0px;
+   box-sizing:border-box;
+}
+.container{
+/*    max-height:2000px;
+    min-height:900px;*/
+height:auto;
+margin:auto;
+   background:#F3F3F3; 
+     
+   width:100%;
+   }
+   .red{
+     background:#D43A2F;  
+     height:12px;
+     width:70%;
+     margin:auto;
+   }
+   header{
+     height: 124px;
+     width:70%;
+      background:#F44336;
+      margin: auto;
+       box-shadow:0px 7px 5px silver;
+         
+   }
+   .iconforhome{
+       height:100%;
+/*       width:133px;*/
+width:90%;
+      float:left;
+   }
+   .iconforhome i{
+     font-size:122px;
+     margin: -4px 8px 4px;
+   }
+   .fa-home{
+color:black;
+   }
+   .main{
+      
+        
+         width:70%;
+         background:#FFFFFF; 
+         max-height:6000px;
+         min-height:720px;
+/*    height: 800px;*/
+/*         margin:2% auto;*/
+margin: 2%auto;
+         box-shadow:4px 7px 5px silver,-4px -4px 5px silver;
+        border-top-right-radius: 16px;
+border-bottom-left-radius: 16px;
+   }
+   .big-footer{
+  
+        max-height:6000px;
+         min-height:310px;
+         background:-webkit-linear-gradient(right,  #7579ff, #b224ef);
+         width:70%;
+         margin:2% auto;
+           box-shadow:4px 7px 5px silver,-4px -4px 5px silver;
+        border-top-right-radius: 16px;
+border-bottom-left-radius: 16px;
+   }
+   
+ 
+   
+  footer {
+    height: 30px;
+    width: 100%;
+    background:#F3F3F3; 
+    margin: auto;
+    text-align: center;
+}
+.term{
+    height: 30px;
+    width:100%;
+   background:#F3F3F3; 
+    margin:auto;
+    font-size:19px;
+}
+.term> a{
+    text-decoration:none;
+}
+.copy{
+    height: 30px;
+    width:100%;
+    background:#F3F3F3; 
+    margin:auto;
+}
+.hr{
+    width:90%;
+  color:silver;
+}
+.goin {
+    height: 51px;
+    width: 90%;
+    text-align:center;
+    line-height:46px;
+    font-size:24px;
+    background: silver;
+    margin: 1% 5% 1px auto;
+    padding-top: 1px;
+}
+.goin>a{
+    text-decoration:none;
+}
+.goin a :hover{
+    color:tomato;
+}
+.goin:first-child{
+    margin-top:2%;
+}
+.goin:last-child{
+    margin-top:10px;
+}
+
+
+
+
+
+
+
+
+.back{
+    height:100%;
+/*   min-width:10%;*/
+width:10%;
+    background:red;
+    float:left;
+    
+}
+.back i{
+    height:23px;
+    min-width:23px;
+    font-size:101px;
+    margin:auto;
+       
+}
+ 
+
+
+
+
+
+
+
